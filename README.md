@@ -72,7 +72,7 @@
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
   <a href="https://twitter.com/LakshithaM2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshitha madushan" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/lakshitha m pathiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshitha m pathiraja" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lakshitha m pathiraja-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshitha m pathiraja" height="30" width="40" /></a>
   <a href="https://www.facebook.com/lakshitha.madhushan.908?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakshitha m pathiraja" height="30" width="40" /></a>
   <a href="https://instagram.com/lakshitha m pathiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshitha m pathiraja" height="30" width="40" /></a>
   <a href="https://api.whatsapp.com/send/?phone=%2B94711354941&text&app_absent=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
