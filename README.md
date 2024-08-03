@@ -78,7 +78,6 @@
   <a href="https://api.whatsapp.com/send/?phone=%2B94711354941&text&app_absent=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 </p>
 
- 
 ----
 
 <h3 align="center" style="border-bottom: none; margin-bottom: 0;">
