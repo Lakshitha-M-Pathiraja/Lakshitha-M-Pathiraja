@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning <strong>Web based applications</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/LakshithaMdushan">https://github.com/LakshithaMdushan</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/LakshithaMdushan">https://github.com/Lakshitha-M-Pathiraja</a>
 
 - 📫 How to reach me <strong>lakshithamadushan20010@gmail.com</strong>
 
